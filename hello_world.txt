@@ -1,0 +1,1 @@
+This is Waptik's first git project!
